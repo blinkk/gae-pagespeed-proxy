@@ -1,0 +1,5 @@
+service: pagespeed-proxy
+runtime: python37
+
+env_variables:
+  PAGESPEED_API_KEY: KEY
